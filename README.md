@@ -88,9 +88,12 @@ A software engineer is a tech profession who applies engineering principles, sci
 - Block chain developer
 
 ### Salary Ranges
-- **Junior Software Engineer**: $75,000 - $105,000
-- **Mid-Level Software Engineer**: $105,000 - $155,000
-- **Senior Software Engineer**: $155,000 - $220,000+
+
+| Level       | Salary Range          |
+|-------------|-----------------------|
+| Junior      | $75,000 - $105,000    |
+| Mid-Level   | $105,000 - $155,000   |
+| Senior      | $155,000 - $220,000+  |
 
 ---
 
@@ -163,11 +166,15 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 5. Learn basic model deployment concepts
 
 ### Salary Ranges
-- **Junior Data Scientist**: $85,000 - $115,000
-- **Mid-Level Data Scientist**: $115,000 - $155,000
-- **Senior Data Scientist**: $155,000 - $210,000+
+
+| Level       | Salary Range          |
+|-------------|-----------------------|
+| Junior      | $85,000 - $115,000    |
+| Mid-Level   | $115,000 - $155,000   |
+| Senior      | $155,000 - $210,000+  |
 
 ---
+## Product Manager
 <!-- Amos Kimiti-->
 **Role Overview:**  
 A Product Manager (PM) is responsible for defining the vision and direction of a product. They act as a bridge between engineering, design, and business teams to ensure the product solves real user problems and meets business goals.
@@ -197,9 +204,12 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 4. Study Agile development and Scrum processes.  
 
 ### Salary Ranges
-- **Junior Product Manager**: $95,000 - $125,000
-- **Mid-Level Product Manager**: $125,000 - $170,000
-- **Senior Product Manager**: $170,000 - $240,000+
+
+| Level       | Salary Range          |
+|-------------|-----------------------|
+| Junior      | $95,000 - $125,000    |
+| Mid-Level   | $125,000 - $170,000   |
+| Senior      | $170,000 - $240,000+  |
 
 **Free Learning Resources:**
 - https://www.productschool.com/blog  
