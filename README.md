@@ -7,7 +7,7 @@ A collaborative guide by AMOS KIMITI, BANNY GATARI, MICHELLE
 - [Software Engineer](#software-engineer)
 - [Data Scientist](#data-scientist)
 - [Product Manager](#product-manager)
-
+- [UX Designer](#ux-designer)
 ---
 
 ## Introduction
