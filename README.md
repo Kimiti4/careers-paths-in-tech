@@ -31,7 +31,7 @@ A software engineer is a tech profession who applies engineering principles, sci
 ---
 
 
-## Key specialisations
+### Key specialisations
 1. Frontend engineering
 2. Backend engineering
 3. Full stack engineering
@@ -80,7 +80,7 @@ A software engineer is a tech profession who applies engineering principles, sci
 |Director/CTO      |The captain
 
 
-## Niche and emeging paths
+### Niche and emeging paths
 - Cybersecurity engineer
 - Embedded system engineer
 - Game developer
@@ -90,6 +90,22 @@ A software engineer is a tech profession who applies engineering principles, sci
 - **Junior Software Engineer**: $75,000 - $105,000
 - **Mid-Level Software Engineer**: $105,000 - $155,000
 - **Senior Software Engineer**: $155,000 - $220,000+
+
+### Recommended Skills
+
+- Programming languages: Python, Java, JavaScript, C++
+- Data structures and algorithms
+- Version control with Git & GitHub
+- Databases (SQL / NoSQL)
+- Debugging and problem-solving
+
+### Recommended Certifications (Optional)
+
+- freeCodeCamp – Responsive Web Design / JavaScript Algorithms
+- Google IT Automation with Python
+- Microsoft Azure Fundamentals
+- AWS Cloud Practitioner (Foundational)
+**Certifications help demonstrate practical skills but are not mandatory for entry-level roles.**
 
 ---
 
@@ -166,7 +182,25 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 - **Mid-Level Data Scientist**: $115,000 - $155,000
 - **Senior Data Scientist**: $155,000 - $210,000+
 
+### Recommended Skills
+
+- Programming with Python or R
+- Statistics and probability
+- Data analysis using Pandas, NumPy
+- Data visualization (Matplotlib, Seaborn, Tableau)
+- Basic machine learning concepts
+
+### Recommended Certifications (Optional)
+
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Microsoft Azure Data Scientist Associate
+- Kaggle Micro-Courses (Data Analysis, Machine Learning)
+
+**Certifications can validate analytical skills and familiarity with industry tools.**
+
 ---
+## Product Manager
 <!-- Amos Kimiti-->
 **Role Overview:**  
 A Product Manager (PM) is responsible for defining the vision and direction of a product. They act as a bridge between engineering, design, and business teams to ensure the product solves real user problems and meets business goals.
@@ -205,15 +239,22 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 - https://www.mindtheproduct.com/  
 - https://www.scrumguides.org/  
  
+### Recommended Skills
 
-## Resources
+- Communication and stakeholder management
+- Product roadmap planning
+- User research and requirement gathering
+- Agile and Scrum methodologies
+- Basic understanding of software development processes
 
-- MDN Web Docs – https://developer.mozilla.org/
-- freeCodeCamp – https://www.freecodecamp.org/
-- CS50 (Harvard) – https://cs50.harvard.edu/
-- Kaggle – https://www.kaggle.com/
-- GitHub Docs – https://docs.github.com/
-- Roadmap.sh – https://roadmap.sh/
+### Recommended Certifications (Optional)
+
+- Scrum.org – Professional Scrum Product Owner (PSPO I)
+- Google Project Management Professional Certificate
+- Product School – Product Management Certificate
+- Coursera – Digital Product Management
+
+**Experience, communication, and decision-making are often more important than certifications.**
 
 ## UX DESIGNER
 <!--Michell -->
@@ -263,3 +304,29 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 - Whiteboarding & strategy (the ''discovery'')
 - Analysis & post-launch(the ''proof'')
 - Documentation & handoff(''the bridge'')
+
+### Recommended Skills
+
+- User research and usability testing
+- Wireframing and prototyping
+- Interaction and visual design principles
+- Accessibility and user-centered design
+- Design tools such as Figma or Adobe XD
+
+### Recommended Certifications (Optional)
+
+- Google UX Design Professional Certificate
+- Interaction Design Foundation certifications
+- Nielsen Norman Group UX courses
+- Coursera – User Experience Design
+
+**In UX roles, a strong portfolio often matters more than certifications.**
+
+## Resources
+
+- MDN Web Docs – https://developer.mozilla.org/
+- freeCodeCamp – https://www.freecodecamp.org/
+- CS50 (Harvard) – https://cs50.harvard.edu/
+- Kaggle – https://www.kaggle.com/
+- GitHub Docs – https://docs.github.com/
+- Roadmap.sh – https://roadmap.sh/
