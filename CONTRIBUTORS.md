@@ -17,6 +17,16 @@
 - Code review for all PRs
 
 ### Team Member 2
+|Name    |Github                               |Role       |Contributions          |
+|--------|-------------------------------------|-----------|-----------------------|
+|Michelle|[@coddy-m](https://github.com/coddy-m|Team member|Adding sections to repo|
+
+## Contribution Breakdown
+
+### Michelle
+-Added Software Engineer section
+-Added UX Designer section
+-Solved issues using PRs 
 
 
 ### Team Member 3
