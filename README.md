@@ -1,6 +1,6 @@
 # Careers-paths-in-tech
 
-A collaborative guide by AMOS KIMITI, BANNY GATARI, MICHELLE
+A collaborative guide by AMOS KIMITI, MICHELLE
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,7 +16,6 @@ This guide explores different career paths in the tech industry. Each section is
 ---
 <!-- Michell -->
 ## Software Engineer 
-### Software engineer
 
 **Overview**
 
